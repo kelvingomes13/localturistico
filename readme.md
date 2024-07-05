@@ -34,7 +34,7 @@ Esse Modulo vem com conteudos basicos e iniciais para o entendimento das seguint
 
 
 
-- [Visite o projeto online](https://github.com/kelvingomes13/rocketseatdesafio01.git)
+- [Visite o projeto online](https://kelvingomes13.github.io/rocketseatdesafio01/)
 
 ## 🔖 Layout
 
